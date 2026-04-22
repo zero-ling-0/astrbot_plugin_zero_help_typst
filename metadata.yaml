@@ -3,4 +3,4 @@ display_name: 插件菜单(typst实现)
 desc: 基于 typst 实现的 AstrBot 插件菜单渲染，把插件菜单、事件钩子、函数工具、过滤器列表渲染成友好界面，支持指令组、搜索高亮等
 version: v0.1.1
 author: bylkuse
-repo: https://github.com/zero-ling-0/astrbot_plugin_zero_help_typst.git
+repo: https://github.com/zero-ling-0/astrbot_plugin_zero_help_typst
